@@ -3,5 +3,5 @@ Code of Mamba-WheatNet: Lightweight Wheat Head Detection Based on Selective Stat
 
 > [!NOTE]
 >
-> The code is currently being organized and is expected to be updated on January 12, 2025.
+> The code is currently being organized  .
 
