@@ -41,10 +41,4 @@ head:
   - [[-1, 9], 1, Concat, [1]] # cat head P5
   - [-1, 2, BVSSBlock, [ 1024,256,8,True ]] # 21 (P5/32-large)
 
-#  - [ 15, 1, CM_CSP_ELAN, [ 256,64,8 ] ]
-#  - [ 18, 1,CM_CSP_ELAN, [ 512,128,8 ] ]
-#  - [ 21, 1, CM_CSP_ELAN, [ 1024,256,8 ] ]
-
-#  - [[16, 19, 22], 1, Detect, [nc]] # Detect(P3, P4, P5)
-  # - [[19, 22], 1, Detect, [nc]] # Detect(P3, P4, P5)
   - [[15, 18, 21], 1, Detect, [nc]] # Detect(P3, P4, P5)
